@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 468a1143c3fcc504c88a75da0b7d8975
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger02
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Finger1
+    100020: Bip01 L Finger11
+    100022: Bip01 L Finger12
+    100024: Bip01 L Finger1Nub
+    100026: Bip01 L Finger2
+    100028: Bip01 L Finger21
+    100030: Bip01 L Finger22
+    100032: Bip01 L Finger2Nub
+    100034: Bip01 L Finger3
+    100036: Bip01 L Finger31
+    100038: Bip01 L Finger32
+    100040: Bip01 L Finger3Nub
+    100042: Bip01 L Finger4
+    100044: Bip01 L Finger41
+    100046: Bip01 L Finger42
+    100048: Bip01 L Finger4Nub
+    100050: Bip01 L Foot
+    100052: Bip01 L Forearm
+    100054: Bip01 L Hand
+    100056: Bip01 L Thigh
+    100058: Bip01 L Toe0
+    100060: Bip01 L Toe0Nub
+    100062: Bip01 L UpperArm
+    100064: Bip01 Neck
+    100066: Bip01 Pelvis
+    100068: Bip01 R Calf
+    100070: Bip01 R Clavicle
+    100072: Bip01 R Finger0
+    100074: Bip01 R Finger01
+    100076: Bip01 R Finger02
+    100078: Bip01 R Finger0Nub
+    100080: Bip01 R Finger1
+    100082: Bip01 R Finger11
+    100084: Bip01 R Finger12
+    100086: Bip01 R Finger1Nub
+    100088: Bip01 R Finger2
+    100090: Bip01 R Finger21
+    100092: Bip01 R Finger22
+    100094: Bip01 R Finger2Nub
+    100096: Bip01 R Finger3
+    100098: Bip01 R Finger31
+    100100: Bip01 R Finger32
+    100102: Bip01 R Finger3Nub
+    100104: Bip01 R Finger4
+    100106: Bip01 R Finger41
+    100108: Bip01 R Finger42
+    100110: Bip01 R Finger4Nub
+    100112: Bip01 R Foot
+    100114: Bip01 R Forearm
+    100116: Bip01 R Hand
+    100118: Bip01 R Thigh
+    100120: Bip01 R Toe0
+    100122: Bip01 R Toe0Nub
+    100124: Bip01 R UpperArm
+    100126: Bip01 Spine
+    100128: Bip01 Spine1
+    100130: Bip01 Spine2
+    100132: Bone001
+    100134: cap
+    100136: //RootNode
+    100138: F_hair01
+    100140: F_hair02
+    100142: F_hair03
+    100144: F_hair04
+    100146: F_hair_end
+    100148: jaw
+    100150: L_eye
+    100152: L_eyebrow
+    100154: L_hairA01
+    100156: L_hairA02
+    100158: L_hairA03
+    100160: L_hairA04
+    100162: L_hairA_end
+    100164: L_hairB01
+    100166: L_hairB02
+    100168: L_hairB03
+    100170: L_hairB04
+    100172: L_hairB_end
+    100174: L_hairC01
+    100176: L_hairC02
+    100178: L_hairC03
+    100180: L_hairC04
+    100182: L_hairC_end
+    100184: L_hairD01
+    100186: L_hairD02
+    100188: L_hairD03
+    100190: L_hairD04
+    100192: L_hairD_end
+    100194: L_hairE01
+    100196: L_hairE02
+    100198: L_hairE03
+    100200: L_hairE_end
+    100202: L_hairF01
+    100204: L_hairF02
+    100206: L_hairF03
+    100208: L_hairF04
+    100210: L_hairF_end
+    100212: leidian_body
+    100214: M_hairA01
+    100216: M_hairA02
+    100218: M_hairA03
+    100220: M_hairA04
+    100222: M_hairA_end
+    100224: M_hairB01
+    100226: M_hairB02
+    100228: M_hairB03
+    100230: M_hairB04
+    100232: M_hairB_end
+    100234: Object002
+    100236: Object002 1
+    100238: Object01
+    100240: R_eye
+    100242: R_eyebrow
+    100244: R_hairA01
+    100246: R_hairA02
+    100248: R_hairA03
+    100250: R_hairA04
+    100252: R_hairA_end
+    100254: R_hairB01
+    100256: R_hairB02
+    100258: R_hairB03
+    100260: R_hairB_end
+    100262: R_hairC01
+    100264: R_hairC02
+    100266: R_hairC03
+    100268: R_hairC_end
+    100270: R_hairD01
+    100272: R_hairD02
+    100274: R_hairD03
+    100276: R_hairD04
+    100278: R_hairD_end
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger02
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Finger1
+    400020: Bip01 L Finger11
+    400022: Bip01 L Finger12
+    400024: Bip01 L Finger1Nub
+    400026: Bip01 L Finger2
+    400028: Bip01 L Finger21
+    400030: Bip01 L Finger22
+    400032: Bip01 L Finger2Nub
+    400034: Bip01 L Finger3
+    400036: Bip01 L Finger31
+    400038: Bip01 L Finger32
+    400040: Bip01 L Finger3Nub
+    400042: Bip01 L Finger4
+    400044: Bip01 L Finger41
+    400046: Bip01 L Finger42
+    400048: Bip01 L Finger4Nub
+    400050: Bip01 L Foot
+    400052: Bip01 L Forearm
+    400054: Bip01 L Hand
+    400056: Bip01 L Thigh
+    400058: Bip01 L Toe0
+    400060: Bip01 L Toe0Nub
+    400062: Bip01 L UpperArm
+    400064: Bip01 Neck
+    400066: Bip01 Pelvis
+    400068: Bip01 R Calf
+    400070: Bip01 R Clavicle
+    400072: Bip01 R Finger0
+    400074: Bip01 R Finger01
+    400076: Bip01 R Finger02
+    400078: Bip01 R Finger0Nub
+    400080: Bip01 R Finger1
+    400082: Bip01 R Finger11
+    400084: Bip01 R Finger12
+    400086: Bip01 R Finger1Nub
+    400088: Bip01 R Finger2
+    400090: Bip01 R Finger21
+    400092: Bip01 R Finger22
+    400094: Bip01 R Finger2Nub
+    400096: Bip01 R Finger3
+    400098: Bip01 R Finger31
+    400100: Bip01 R Finger32
+    400102: Bip01 R Finger3Nub
+    400104: Bip01 R Finger4
+    400106: Bip01 R Finger41
+    400108: Bip01 R Finger42
+    400110: Bip01 R Finger4Nub
+    400112: Bip01 R Foot
+    400114: Bip01 R Forearm
+    400116: Bip01 R Hand
+    400118: Bip01 R Thigh
+    400120: Bip01 R Toe0
+    400122: Bip01 R Toe0Nub
+    400124: Bip01 R UpperArm
+    400126: Bip01 Spine
+    400128: Bip01 Spine1
+    400130: Bip01 Spine2
+    400132: Bone001
+    400134: cap
+    400136: //RootNode
+    400138: F_hair01
+    400140: F_hair02
+    400142: F_hair03
+    400144: F_hair04
+    400146: F_hair_end
+    400148: jaw
+    400150: L_eye
+    400152: L_eyebrow
+    400154: L_hairA01
+    400156: L_hairA02
+    400158: L_hairA03
+    400160: L_hairA04
+    400162: L_hairA_end
+    400164: L_hairB01
+    400166: L_hairB02
+    400168: L_hairB03
+    400170: L_hairB04
+    400172: L_hairB_end
+    400174: L_hairC01
+    400176: L_hairC02
+    400178: L_hairC03
+    400180: L_hairC04
+    400182: L_hairC_end
+    400184: L_hairD01
+    400186: L_hairD02
+    400188: L_hairD03
+    400190: L_hairD04
+    400192: L_hairD_end
+    400194: L_hairE01
+    400196: L_hairE02
+    400198: L_hairE03
+    400200: L_hairE_end
+    400202: L_hairF01
+    400204: L_hairF02
+    400206: L_hairF03
+    400208: L_hairF04
+    400210: L_hairF_end
+    400212: leidian_body
+    400214: M_hairA01
+    400216: M_hairA02
+    400218: M_hairA03
+    400220: M_hairA04
+    400222: M_hairA_end
+    400224: M_hairB01
+    400226: M_hairB02
+    400228: M_hairB03
+    400230: M_hairB04
+    400232: M_hairB_end
+    400234: Object002
+    400236: Object002 1
+    400238: Object01
+    400240: R_eye
+    400242: R_eyebrow
+    400244: R_hairA01
+    400246: R_hairA02
+    400248: R_hairA03
+    400250: R_hairA04
+    400252: R_hairA_end
+    400254: R_hairB01
+    400256: R_hairB02
+    400258: R_hairB03
+    400260: R_hairB_end
+    400262: R_hairC01
+    400264: R_hairC02
+    400266: R_hairC03
+    400268: R_hairC_end
+    400270: R_hairD01
+    400272: R_hairD02
+    400274: R_hairD03
+    400276: R_hairD04
+    400278: R_hairD_end
+    2100000: body
+    2100002: bodylogo
+    2100004: armor
+    2100006: maskr
+    2100008: lashes
+    2100010: eyes
+    2100012: hand
+    2100014: maskl
+    2100016: head
+    2100018: maskbr
+    2100020: mouth
+    2100022: hair
+    2100024: logol
+    2100026: neck
+    2100028: 'Material #27'
+    2100030: 'Material #26'
+    2300000: Object002 1
+    2300002: Object01
+    3300000: Object002 1
+    3300002: Object01
+    4300000: leidian_body
+    4300002: Object002
+    4300004: Object01
+    4300006: Object002
+    7400000: attack003
+    9500000: //RootNode
+    13700000: leidian_body
+    13700002: Object002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack003
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

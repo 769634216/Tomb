@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: feb2f326d607c714589b5077a599782e
+timeCreated: 1583932645
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Gobin_n: {fileID: 2800000, guid: ce2e521e3d3789e4e95dd076d3aa445a, type: 3}
+  - _Gobin_d: {fileID: 2800000, guid: 0033f98edfb59bb40878d1aa4f2a0b74, type: 3}
+  - _Gobin_d_color: {fileID: 2800000, guid: bfc705afe7e71024f97ca63341ad9725, type: 3}
+  - _Gobin_layered: {fileID: 2800000, guid: af0a218de24eabe4c8675246cfda44ad, type: 3}
+  - _Gobin_color: {fileID: 2800000, guid: 32e1375613f9c3e438749fdbc52ef161, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 60b3b14e0f3a06e4a98a6ddb2d9fa598
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _raiden_head_n: {fileID: 2800000, guid: 421f62f5de926d0439ade9233f7a822e, type: 3}
+  - _raiden_head_d: {fileID: 2800000, guid: e00011b4860e6e545b7922580d74fc58, type: 3}
+  - _Eye_s: {fileID: 2800000, guid: 0a4e2bafbd717ce479a168b8efa9f0fc, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

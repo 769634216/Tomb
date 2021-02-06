@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Harpy_Material
+  m_Shader: {fileID: 4800000, guid: 5224944be6d1ff74a80c1b4a72bc86c3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _T_HARPY_BreastsCovered_Albedo:
+        m_Texture: {fileID: 2800000, guid: 2e77f1f28bb848c4fa8f8cf24269003b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_HARPY_BreastsCovered_RoughnessSpecularMetallic:
+        m_Texture: {fileID: 2800000, guid: 1d5dc0a79cd13f44f8c80d61fd6017b8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_HARPY_BrestsCovered_NRM_Yinv:
+        m_Texture: {fileID: 2800000, guid: 2014ca40146602744a8f76be24522b76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - __dirty: 0
+    m_Colors:
+    - _Grain_Color: {r: 1.3931026, g: 0, b: 2, a: 0}

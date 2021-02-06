@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b07c29d14d168414eac40488d32cb669
+timeCreated: 1584026917
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_HARPY_FEATHERS_HAIR_NRM: {fileID: 2800000, guid: 480620258e6d80644a67fe3b3e535bfe,
+      type: 3}
+  - _T_HARPY_FEATHERS_HAIR: {fileID: 2800000, guid: 55296c98bed798748aa8ed33f8693c4b,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

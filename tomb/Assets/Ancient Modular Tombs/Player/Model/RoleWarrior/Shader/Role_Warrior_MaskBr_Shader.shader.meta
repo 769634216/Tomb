@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 52c3806266671bd499fa10bf3523d54a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _armorc_n: {fileID: 2800000, guid: 14fea346ec405f548a7f51ad24e44604, type: 3}
+  - _armorc_d: {fileID: 2800000, guid: 9221d010f101bfc499f34b83d183fe14, type: 3}
+  - _armorc_l: {fileID: 2800000, guid: deea595908eca2a4394be99d53ad3664, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

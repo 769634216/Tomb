@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d233e0846ce7e5940937c5f674f4fc9c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _hair_s: {fileID: 2800000, guid: 6cbb0e03d4d19064bb16ac78e7f407f9, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
